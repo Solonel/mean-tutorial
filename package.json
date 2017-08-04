@@ -129,5 +129,5 @@
     "update-webdriver": "node node_modules/protractor/bin/webdriver-manager update",
     "start": "node server"
   },
-  "private": true
+  "private": false
 }
